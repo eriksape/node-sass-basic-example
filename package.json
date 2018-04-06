@@ -1,0 +1,11 @@
+{
+  "name": "ThemeSass",
+  "version": "0.0.0",
+  "description": "Making Theme with sass",
+  "main": "index.js",
+  "author": "Erik Sanchez",
+  "license": "MIT",
+  "dependencies": {
+    "node-sass": "^4.8.3"
+  }
+}
